@@ -10,7 +10,7 @@ export default function App() {
   return (
     <>
       <Helmet>
-        <title>AI Video Editor</title>
+        <title>AI Video Editor - Welcome to next-gen AI</title>
       </Helmet>
       <ChakraProvider>
         <LandingPage user={user} />
